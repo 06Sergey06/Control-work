@@ -1,0 +1,15 @@
+D:\Тестировщик\Итоги блока. Выбор специализации. IT-специалист\Итоговая проверочная работа\Final verification work\Program\bin\Debug\net6.0\Program.exe
+D:\Тестировщик\Итоги блока. Выбор специализации. IT-специалист\Итоговая проверочная работа\Final verification work\Program\bin\Debug\net6.0\Program.deps.json
+D:\Тестировщик\Итоги блока. Выбор специализации. IT-специалист\Итоговая проверочная работа\Final verification work\Program\bin\Debug\net6.0\Program.runtimeconfig.json
+D:\Тестировщик\Итоги блока. Выбор специализации. IT-специалист\Итоговая проверочная работа\Final verification work\Program\bin\Debug\net6.0\Program.dll
+D:\Тестировщик\Итоги блока. Выбор специализации. IT-специалист\Итоговая проверочная работа\Final verification work\Program\bin\Debug\net6.0\Program.pdb
+D:\Тестировщик\Итоги блока. Выбор специализации. IT-специалист\Итоговая проверочная работа\Final verification work\Program\obj\Debug\net6.0\Program.csproj.AssemblyReference.cache
+D:\Тестировщик\Итоги блока. Выбор специализации. IT-специалист\Итоговая проверочная работа\Final verification work\Program\obj\Debug\net6.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\Тестировщик\Итоги блока. Выбор специализации. IT-специалист\Итоговая проверочная работа\Final verification work\Program\obj\Debug\net6.0\Program.AssemblyInfoInputs.cache
+D:\Тестировщик\Итоги блока. Выбор специализации. IT-специалист\Итоговая проверочная работа\Final verification work\Program\obj\Debug\net6.0\Program.AssemblyInfo.cs
+D:\Тестировщик\Итоги блока. Выбор специализации. IT-специалист\Итоговая проверочная работа\Final verification work\Program\obj\Debug\net6.0\Program.csproj.CoreCompileInputs.cache
+D:\Тестировщик\Итоги блока. Выбор специализации. IT-специалист\Итоговая проверочная работа\Final verification work\Program\obj\Debug\net6.0\Program.dll
+D:\Тестировщик\Итоги блока. Выбор специализации. IT-специалист\Итоговая проверочная работа\Final verification work\Program\obj\Debug\net6.0\refint\Program.dll
+D:\Тестировщик\Итоги блока. Выбор специализации. IT-специалист\Итоговая проверочная работа\Final verification work\Program\obj\Debug\net6.0\Program.pdb
+D:\Тестировщик\Итоги блока. Выбор специализации. IT-специалист\Итоговая проверочная работа\Final verification work\Program\obj\Debug\net6.0\Program.genruntimeconfig.cache
+D:\Тестировщик\Итоги блока. Выбор специализации. IT-специалист\Итоговая проверочная работа\Final verification work\Program\obj\Debug\net6.0\ref\Program.dll
